@@ -1,3 +1,2 @@
-def add(a, b):
-    # Write your code here
-    pass
+def add(a,b):
+    return a+b
